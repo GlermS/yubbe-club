@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "yubbe-club",
+    "slug": "yubbe-club",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "yubbe-club"
+}
